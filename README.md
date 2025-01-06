@@ -9,6 +9,6 @@
 - emlak-correlations: visualizations of relationships between features
 
 #### Models
-- emlak-linear: a linear regression model with scikit-learn (K-fold cross-validation + MAE, NAE + price prediction example)
-- emlak-polynomial:
-- emlak-randomforest: a random forest model with scikit-learn (K-fold cross-validation + MAE, NAE + price prediction example)
+- emlak-linear: a linear regression model built with scikit-learn (K-fold cross-validation + MAE, NAE + price prediction example)
+- emlak-polynomial: a polynomial regression model built with scikit-learn (K-fold cross-validation + MAE, NAE + price prediction example)
+- emlak-randomforest: a random forest model built with scikit-learn (K-fold cross-validation + MAE, NAE + price prediction example)
